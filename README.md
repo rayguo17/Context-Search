@@ -7,7 +7,8 @@ Supported Modal:
 - [] Video (Video understanding model)
 - [] Audio (Audio understanding model)
 - [] Website (with webdriver and element parser)
-
+- [] EPUB Books
+- [] Scattered Forum discussion
 ## Tech Stack
 
 ### Tauri + SvelteKit
